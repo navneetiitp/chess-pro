@@ -31,4 +31,3 @@ npm run build
 npm run preview
 ```
 
-Deploy the repository to Vercel/Netlify after the build succeeds.
